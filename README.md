@@ -109,15 +109,7 @@ The repository includes readable text exports for the core network devices, so t
 
 ![ACL validation](screenshots/08_acl_after.png)
 
-### IoT Dashboard
-
-![IoT dashboard](screenshots/10_iot_dashboard.png)
 
 ## Why This Project Is Useful
 
-This project shows how networking concepts translate into a realistic environment with multiple trust levels, practical service requirements, and security boundaries. It is designed to be understandable both as a simulation and as a documentation-first case study.
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/mmansoorurrehman/)
-- [GitHub](https://github.com/imnxr)
+This project shows how networking concepts translate into a realistic environment with multiple trust levels, practical service requirements, and security boundaries. 
