@@ -145,4 +145,4 @@ The TabletPC opens a web browser to the IoT server's dashboard. From there, secu
 
 4. **Static routing only** — The simulation uses static routes implied by connected routes. EIGRP or OSPF would be more scalable in a multi-router setup.
 
-5. **CCTV via IoT webcam** — Packet Tracer simulates CCTV using IoT webcam devices connected through the HostelGateway. In reality, CCTV runs on a dedicated NVR system.
+5. **CCTV via IoT webcam** — Packet Tracer simulates CCTV using IoT webcam devices connected through the HostelGateway. In reality, CCTV runs on a dedicated NVR system.  
